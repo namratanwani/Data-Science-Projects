@@ -17,12 +17,12 @@ The following layout of the report has been described below:
 
 Following are the sub steps performed in this section:
 
-i)	Dimensionality Reduction
-
-ii)	Modelling
-
-iii)	Results
-
-iv)	Discussion
+    i)	Dimensionality Reduction
+    
+    ii)	Modelling
+    
+    iii)	Results
+    
+    iv)	Discussion
 
 6.	Conclusion: At last, we conclude about our proceedings with which ones turned out to be appropriate.
