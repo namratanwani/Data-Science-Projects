@@ -15,14 +15,14 @@ The following layout of the report has been described below:
 
 5.	Machine Learning: Machine learning is a method of data analysis that automates analytical model building. It is a subset of artificial intelligence that focuses on the development of computer programs that can access data and use it to learn for themselves. There are many different types of machine learning, including supervised learning, unsupervised learning, semi-supervised learning, and reinforcement learning. Supervised learning involves training a model on labelled data, where the correct output is provided for each example in the training set. Since, the dataset provided is labelled, we are going to follow supervised machine learning techniques.
 
-Following are the sub steps performed in this section:
-
-    i)	Dimensionality Reduction
+    Following are the sub steps performed in this section:
     
-    ii)	Modelling
-    
-    iii)	Results
-    
-    iv)	Discussion
+        i)	Dimensionality Reduction
+        
+        ii)	Modelling
+        
+        iii)	Results
+        
+        iv)	Discussion
 
 6.	Conclusion: At last, we conclude about our proceedings with which ones turned out to be appropriate.
